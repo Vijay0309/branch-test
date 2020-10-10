@@ -1,5 +1,4 @@
 master-m1
-master-m2
+master-m-two
 feature1-f1
 feature1-f2
-
